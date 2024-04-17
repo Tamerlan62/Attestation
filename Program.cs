@@ -23,3 +23,14 @@
     }
     return array_str;
 }
+
+Console.Write("Enter size: ");
+int n = int.Parse(Console.ReadLine()!);
+
+string[] new_array_str = new string[n];
+
+for (int i = 0; i < n; i++)
+{
+    Console.Write($"Enter string {i + 1}: ");
+    new_array_str[i] = Console.ReadLine()!;
+}
