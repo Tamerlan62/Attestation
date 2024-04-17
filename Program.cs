@@ -34,3 +34,14 @@ for (int i = 0; i < n; i++)
     Console.Write($"Enter string {i + 1}: ");
     new_array_str[i] = Console.ReadLine()!;
 }
+
+string[] array_str = CreatString(new_array_str);
+
+Console.WriteLine("Array strings (size <= 3 elements):");
+Console.Write("[");
+
+foreach (string str in array_str)
+{
+    Console.Write($"{str}, ");
+}
+Console.WriteLine("]");

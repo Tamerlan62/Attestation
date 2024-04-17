@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\bin\Debug\net8.0\Atestasiya.exe
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\bin\Debug\net8.0\Atestasiya.deps.json
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\bin\Debug\net8.0\Atestasiya.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\bin\Debug\net8.0\Atestasiya.dll
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\bin\Debug\net8.0\Atestasiya.pdb
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\obj\Debug\net8.0\Atestasiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\obj\Debug\net8.0\Atestasiya.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\obj\Debug\net8.0\Atestasiya.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\obj\Debug\net8.0\Atestasiya.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\obj\Debug\net8.0\Atestasiya.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\obj\Debug\net8.0\Atestasiya.dll
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\obj\Debug\net8.0\refint\Atestasiya.dll
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\obj\Debug\net8.0\Atestasiya.pdb
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\obj\Debug\net8.0\Atestasiya.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Atestasiya\obj\Debug\net8.0\ref\Atestasiya.dll
